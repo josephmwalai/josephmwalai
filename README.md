@@ -31,12 +31,6 @@ I am a **Software Engineer** with a background in **BioMechanical and Processing
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Josephmwalai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📌 Featured Projects
-- **Woofstagram:** A React Native app for dog lovers to share pictures of their pets.
-- **Live Soccer Scores:** A React project displaying real-time soccer match results.
-- **Car Service App:** An Android app designed using XML and Kotlin to manage car service bookings.
-- **Role Management System:** An Angular project that supports filtering, exporting, and managing user roles.
-
 ## 🚀 Profile Views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Josephmwalai&label=Profile%20Views&color=10&icon=6&pretty=false" />
