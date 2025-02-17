@@ -14,7 +14,7 @@
 
 # Hi there, I'm Joseph Mwalai. 👋
 
-I am a **Software Engineer** with a background in **BioMechanical and Processing Engineering**. I love solving complex **data and algorithmic problems**. I specialize in **UI/UX Design, Responsive Design, and Web Performance Optimization**. I am currently exploring opportunities as a **Frontend Developer** and have experience working on **E-Commerce projects, Angular role management systems, and mobile payment solutions like AbsaPay**.
+I am a **Software Engineer** with a background in **BioMechanical and Processing Engineering**. I love solving complex **data and algorithmic problems**. I specialize in **UI/UX Design, Responsive Design, and Web Performance Optimization**. I am currently exploring opportunities as a **Frontend Developer** and have experience working on **E-Commerce projects, Angular role management systems, and mobile payment solutions**.
 
 ## 🚀 What I Work On:
 - **Frontend Development:** React, Angular, JavaScript, TypeScript, Tailwind CSS, Bootstrap
