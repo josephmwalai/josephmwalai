@@ -31,7 +31,3 @@ I am a **Software Engineer** with a background in **BioMechanical and Processing
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Josephmwalai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Profile Views
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Josephmwalai&label=Profile%20Views&color=10&icon=6&pretty=false" />
-</a>
