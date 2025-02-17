@@ -10,21 +10,34 @@
     <a href="https://x.com/joseph36">
         <img src="https://img.shields.io/badge/-@joseph36-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge">
     </a>
-
-
 </p>
 
+# Hi there, I'm Joseph Mwalai. 👋
 
-Hi there, I'm Joseph Mwalai. <br/>
+I am a **Software Engineer** with a background in **BioMechanical and Processing Engineering**. I love solving complex **data and algorithmic problems**. I specialize in **UI/UX Design, Responsive Design, and Web Performance Optimization**. I am currently exploring opportunities as a **Frontend Developer** and have experience working on **E-Commerce projects, Angular role management systems, and mobile payment solutions like AbsaPay**.
 
-# 📊 GitHub Stats:
+## 🚀 What I Work On:
+- **Frontend Development:** React, Angular, JavaScript, TypeScript, Tailwind CSS, Bootstrap
+- **Mobile Development:** Kotlin, React Native
+- **Backend & Databases:** MariaDB, REST APIs
+- **Performance Optimization:** Web performance best practices, Chrome DevTools
+- **Project Management:** Agile methodologies, Figma for UI/UX Design
+- **Currently Learning:** Next.js, Node.js
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Josephmwalai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephmwalai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Josephmwalai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📌 Featured Projects
+- **Woofstagram:** A React Native app for dog lovers to share pictures of their pets.
+- **Live Soccer Scores:** A React project displaying real-time soccer match results.
+- **Car Service App:** An Android app designed using XML and Kotlin to manage car service bookings.
+- **Role Management System:** An Angular project that supports filtering, exporting, and managing user roles.
 
+## 🚀 Profile Views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Josephmwalai&label=Profile%20Views&color=10&icon=6&pretty=false" />
 </a>
